@@ -1,3 +1,3 @@
-# Automated-Face-Attendance-System-Project
+# Automated-Face-Attendance-System
 Developed a face attendance system using CNN for automated tracking and Integrated real-time image processing to
 capture and verify faces using camera feeds.
